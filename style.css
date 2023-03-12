@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:#00FFFF ; 
+    border: solid 1px #00FFFF ;
+    padding: 5px;
+    border-radius: 10px;
+}
+header a {
+    color: #00008B;
+    text-decoration: #00FFFF;
+}
+h1 {
+    color: #191970;
+    font-size: 66px;
+}
+footer {
+    font-size: 25px;
+    background-color: #00FFFF;
+    border: solid 1px #00FFFF ;
+    border-radius: 10px
+}
+nav {
+    background-color: #191970;
+    border: solid 1px #191970 ;
+    padding: 5px;
+    border-radius: 10px;
+}
+nav a {
+    color: #00FFFF;
+    text-decoration: #00FFFF;
+}
+main img {
+    background-color: #00FFFF;
+     border: solid 1px #00FFFF ;
+    padding: 1px;
+    border-radius: 10px
+}
